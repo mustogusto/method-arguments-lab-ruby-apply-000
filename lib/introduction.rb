@@ -1,4 +1,4 @@
 #!usr/bin/env ruby
 def introduction(name)
-  puts "Hi, may name is #{name}."
+  puts "Hi, my name is #{name}."
 end
